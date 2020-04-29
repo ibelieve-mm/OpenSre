@@ -1,0 +1,2 @@
+include ':app', ':opensourcelibrary'
+rootProject.name='OpenSourceDemo'
